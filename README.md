@@ -1,3 +1,5 @@
+
+
 # AtmInterface_codsoft
 ##ATM INTERFACE 
 #codsoft #java programming 
@@ -14,3 +16,10 @@ balance.
 6. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
 7. Display appropriate messages to the user based on their chosen options and the success or failure on its transaction
 checkout the below program link:👇👇
+
+https://github.com/poojithaendrapaly/AtmInterface_codsoft/assets/156337751/986a24bc-af67-473e-b6b5-4d72baf7d540
+
+this is how the program works......
+
+
+
